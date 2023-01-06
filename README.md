@@ -14,13 +14,13 @@
     
 ## About The Project
 
-This project goal was to create a blackjack card game in a preferred programming language. The game was coded using Python and had the following functionalities:
-1:  Defining randomly a card to the player and the computer.
-2: Calculating the score based on the numbers given.
-3: Providing conditional statements that will highlight the game rules, such as: if the player score is higher than 21, the computer wins, or if the player score is equal with the computer score it is a draw.
-4: Providing an additional input that would ask the player for another card in case the number is less than 21 and the player wants to continue.
-5: Providing another random number for the computer in case the sum of the numbers already given is less than 17.
-6: Updating the score accordingly and displaying them.
+This project goal was to create a blackjack card game in a preferred programming language. The game was coded using Python and had the following functionalities: <br/>
+1:  Defining randomly a card to the player and the computer.<br/>
+2: Calculating the score based on the numbers given.<br/>
+3: Providing conditional statements that will highlight the game rules, such as: if the player score is higher than 21, the computer wins, or if the player score is equal with the computer score it is a draw.<br/>
+4: Providing an additional input that would ask the player for another card in case the number is less than 21 and the player wants to continue.<br/>
+5: Providing another random number for the computer in case the sum of the numbers already given is less than 17.<br/>
+6: Updating the score accordingly and displaying them.<br/>
 
 ## Built With
 
